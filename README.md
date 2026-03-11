@@ -54,22 +54,30 @@ Open and execute the Face Mask Detector.ipynb notebook to train the model and pe
 
 The notebook guides you through loading the dataset, preprocessing images, and training the CNN model.
 Dataset:
+![image alt](https://github.com/singh-rounak/Face-Mask-Detector/blob/develop/images/Mask_NoMask_Dataset.png?raw=true)
 
 Methodoly:
+![image alt](https://github.com/singh-rounak/Face-Mask-Detector/blob/develop/images/FaceMask%20Methodology.png?raw=true)
 
 2. Real-Time Detection:
 
 After training, the model can process live video feeds from your webcam to detect face masks.
-Live Feed:
+Live Feed: Initial Face detection using Haar Cascade Classifier
+![image alt](https://github.com/singh-rounak/Face-Mask-Detector/blob/develop/Face%20Capture.PNG?raw=true)
 
-Results
+Model Results
 The model achieves high accuracy in distinguishing between masked and unmasked faces. Sample outputs are provided in the repository images.
 
 Accuracy and Model Loss:
 ![image alt](https://github.com/singh-rounak/Face-Mask-Detector/blob/develop/images/FaceMask%20results.png?raw=true)
 
 
-Reults:
+Results:
+
+1. Identifying No Mask
+![image alt](https://github.com/singh-rounak/Face-Mask-Detector/blob/develop/images/No%20Mask.png?raw=true)
+2. Identifying Mask
+![image alt](https://github.com/singh-rounak/Face-Mask-Detector/blob/develop/images/Mask.png?raw=true)
 
 ## REPORT:
 For an in-depth understanding of the project's methodology, refer to the Final Report.pdf, which covers:
