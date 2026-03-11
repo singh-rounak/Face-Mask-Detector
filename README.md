@@ -64,7 +64,10 @@ Live Feed:
 
 Results
 The model achieves high accuracy in distinguishing between masked and unmasked faces. Sample outputs are provided in the repository images.
+
 Accuracy and Model Loss:
+![image alt](https://github.com/singh-rounak/Face-Mask-Detector/blob/develop/images/FaceMask%20results.png?raw=true)
+
 
 Reults:
 
