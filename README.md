@@ -53,13 +53,20 @@ Open and execute the Face Mask Detector.ipynb notebook to train the model and pe
 1. Training the Model:
 
 The notebook guides you through loading the dataset, preprocessing images, and training the CNN model.
+Dataset:
+
+Methodoly:
 
 2. Real-Time Detection:
 
 After training, the model can process live video feeds from your webcam to detect face masks.
+Live Feed:
 
 Results
 The model achieves high accuracy in distinguishing between masked and unmasked faces. Sample outputs are provided in the repository images.
+Accuracy and Model Loss:
+
+Reults:
 
 ## REPORT:
 For an in-depth understanding of the project's methodology, refer to the Final Report.pdf, which covers:
