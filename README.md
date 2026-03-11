@@ -2,6 +2,11 @@
 ## OVERVIEW:
 This project implements a deep learning model to detect whether individuals are wearing face masks. Utilizing computer vision techniques, the system processes images or video streams to identify faces and classify them as either "Mask" or "No Mask".
 
+REFERENCE:
+[1] Lippert, Christoph, and Benjamin Bergner. "Face Mask Detector."
+[2] Das, Arjya, Mohammad Wasif Ansari, and Rohini Basak. "Covid-19 Face Mask
+Detection Using TensorFlow, Keras and OpenCV. 
+
 ## FEATURES:
 Real-Time Detection: Processes live video streams to detect face masks in real-time.
 Deep Learning Model: Employs a Convolutional Neural Network (CNN) trained on a dataset of masked and unmasked faces.
