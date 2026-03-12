@@ -1,4 +1,5 @@
 # Face-Mask-Detector
+![image alt](https://github.com/singh-rounak/Face-Mask-Detector/blob/develop/images/Face%20Mask%20Detection.png?raw=true)
 ## OVERVIEW:
 This project implements a deep learning model to detect whether individuals are wearing face masks. Utilizing computer vision techniques, the system processes images or video streams to identify faces and classify them as either "Mask" or "No Mask".
 
